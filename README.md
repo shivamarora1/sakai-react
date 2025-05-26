@@ -1,3 +1,6 @@
+> This repository is a submission for the [Amazon Q Chanllenge](https://dev.to/challenges/aws-amazon-q-v2025-04-30).<br>
+> You can read the full submission article [here](https://dev.to/coder_dragon/generate-git-action-cicd-pipeline-using-amazon-q-cli-3plo).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
